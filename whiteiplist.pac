@@ -4,6 +4,7 @@ var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
 
 /*
+ * 修改端口 感谢 breakwa11
  * Copyright (C) 2014 breakwa11
  * https://github.com/breakwa11/gfw_whitelist
  */
